@@ -77,4 +77,10 @@ A simple web application for managing student data using PHP and MySQL. The appl
 
 https://github.com/user-attachments/assets/d21c414e-7977-429e-9abd-a3db61d45593
 
+## Linkedin Link 
+
+<div align="center">
+<a href="https://www.linkedin.com/feed/update/urn:li:activity:7265635409299206144/">https://www.linkedin.com/feed/update/urn:li:activity:7265635409299206144/</a>
+</div>
+
 
