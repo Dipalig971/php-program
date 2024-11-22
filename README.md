@@ -77,3 +77,4 @@ A simple web application for managing student data using PHP and MySQL. The appl
 
 https://github.com/user-attachments/assets/d21c414e-7977-429e-9abd-a3db61d45593
 
+
