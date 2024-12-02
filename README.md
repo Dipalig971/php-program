@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/60be8bc7-714b-4457-93a5-dba8bff27996
 # Student Form
 
 A simple web application for managing student data using PHP and MySQL. The application demonstrates the use of CRUD (Create, Read, Update, Delete) operations with a clean and responsive interface built using Bootstrap.
