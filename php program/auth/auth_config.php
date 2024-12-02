@@ -16,8 +16,8 @@ class AuthConfig{
     }
     function signUp($name, $email, $password)
     {
-        $pwd = password_hash($password, PASSWORD_DEFAULT);
-        $query = "INSERT INTO $this->table (name,email,password) VALUES ('$name','$email','$pwd')";
+        $hash = password_hash($password, PASSWORD_DEFAULT);
+        $query = "INSERT INTO $this->table (name,email,password) VALUES ('$name','$email','$hash')";
         $insertData = mysqli_query($this->status, $query);
         return $insertData;
     }
